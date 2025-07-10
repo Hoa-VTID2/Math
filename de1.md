@@ -1,5 +1,5 @@
-![Uploading image.png…]()
-![Uploading image.png…]()
+![de1](https://github.com/user-attachments/assets/bfd40a7a-4b62-430a-a4e4-10e8769a7707)
+![d1-2](https://github.com/user-attachments/assets/817e2297-38c0-4bac-a984-aad54a30d6d3)
 
 #### **Câu 1: Tìm kích thước hình chữ nhật để chu vi nhỏ nhất**
 
