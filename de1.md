@@ -1,13 +1,3 @@
-Chào bạn, đây là lời giải chi tiết cho các bài toán trong đề thi. Các bài toán này chủ yếu thuộc dạng tối ưu hóa, sử dụng kiến thức về đạo hàm để tìm giá trị lớn nhất và nhỏ nhất.
-
-***
-
-### Lời giải chi tiết
-
-Dưới đây là đáp án và cách giải cho từng câu hỏi:
-
----
-
 #### **Câu 1: Tìm kích thước hình chữ nhật để chu vi nhỏ nhất**
 
 Để một hình chữ nhật có diện tích không đổi là $100 \text{ cm}^2$ mà chu vi nhỏ nhất, thì hình chữ nhật đó phải là **hình vuông**.
