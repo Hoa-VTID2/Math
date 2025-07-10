@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+![Uploading image.png…]()
+
 #### **Câu 1: Tìm kích thước hình chữ nhật để chu vi nhỏ nhất**
 
 Để một hình chữ nhật có diện tích không đổi là $100 \text{ cm}^2$ mà chu vi nhỏ nhất, thì hình chữ nhật đó phải là **hình vuông**.
